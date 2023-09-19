@@ -1,0 +1,33 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-izq, .nav-der, .nav-der-btn, .naz-izq-seva, .nav-der-queda, .nav-dera{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    gap: 1rem;
+}
+
+.nav-der-btn{
+    height: 3rem;
+    padding: 0 5px;
+    background-color: rgba(0, 86, 254, 1);
+}
+
+.nav-der-btn svg{
+    color: white;
+}
+
+.nav-der-btn h4{
+    color: rgb(255, 255, 255);
+}
+
+.nav-izq img{
+    width: auto;
+    height: 50px;
+}

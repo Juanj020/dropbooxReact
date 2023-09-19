@@ -1,0 +1,15 @@
+
+.contenido{
+    display: flex;
+}
+
+.cont-izq, .cont-der{
+    background-color: rgba(28, 24, 24);
+    width: 100rem;
+    height: 0 auto;
+}
+
+.cont-cen{
+    background-color: rgba(28, 24, 24, 1);
+    width: 200rem
+}
